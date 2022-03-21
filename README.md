@@ -1,2 +1,2 @@
-# Johnny-Redgrave.github.io
+# Полупанов Дмитрий
 Мой первый сайт
