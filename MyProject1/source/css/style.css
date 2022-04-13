@@ -1,0 +1,289 @@
+.body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+background: rgb(169,3,41); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(109,0,25,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(109,0,25,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
+}
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 210px;
+    float: left;
+}
+.menu{
+    float: left;
+    padding-left: 400px;
+}
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: white;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-bottom: 300px;
+    width: 100%;
+    font-size: 30px;
+    background: 
+}
+.button{
+    border: 2px solid #A60000;
+    color: black;
+}
+.opis{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.opis h3{
+    font-size: 30px;
+    border-bottom: 2px solid crimson;
+    border-bottom-width: auto;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+.opis input{
+    margin-top: 30px;
+}
+.title__contain input{
+    font-size:13px;
+    width: 120px;
+    text-align: center;
+    height: 30px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background: none;
+    padding: 0px 16px;
+    margin: 40px 14px 0px 14px;
+}
+.abil{
+   
+    text-align: center;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+    margin-left:260px;
+    
+}
+.abil h3{
+    text-align: center;
+   font-size:30px;
+    margin-right:270px;
+    border-bottom: 2px solid crimson;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+.abil li{
+    float:left;
+    line-height: 20px;
+    margin-right: 40px;
+    font-size: 15px;
+}
+.abil svg{
+    margin-bottom: 15px;
+}
+.cases{
+    padding-bottom: 100px;
+}
+.cases img{
+    padding-left: 22%;
+}
+.cases client{
+    float:left;
+}
+.cases p{
+    padding-bottom: 5px;
+}
+.cases span{
+    padding-left: 27%;
+}
+.client{
+    float:left;
+    width: 120px;
+    margin-left: 300px;
+}
+.name{
+    text-align: center;
+}
+.name h4{
+    margin-bottom: 10px;
+}
+
+
+.cases h3{
+    text-align: center;
+    font-size:30px;
+    
+    border-bottom: 2px solid crimson;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.raschet{
+    
+    text-align: center;
+    
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.raschet h3{
+    
+    font-size: 35px;
+}
+.raschet h4{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+.sroki{
+    text-align: center;
+}
+.sroki p{
+    padding-top: 20px;
+}
+.stat h3{
+    text-align: center;
+    font-size: 35px;
+    border-bottom: 2px solid #A60000;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+.stat{
+padding-bottom: 250px;
+}
+.stat li{
+    padding-left: 150px;
+    float: left;
+    line-height: 60px;
+    color: black;
+    margin-right: 40px;
+    font-size: 20px;
+}
+.stat svg{
+    margin-left: 80px;
+}
+.reviews h3{
+    text-align: center;
+    font-size: 35px;
+}
+.reviews{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.reviews img{
+    padding-bottom: 20px;
+}
+.reviews p{
+    margin-top:10px;
+}
+.contacts h3{
+    text-align: center;
+    font-size: 35px;
+    
+}
+.contacts li{
+    padding-left: 150px;
+    float: left;
+    line-height: 60px;
+    color: black;
+    margin-right: 40px;
+    font-size: 20px;
+    
+    
+}
+.contacts p{
+    text-align: center;
+}
+.sms{
+    padding-top: 200px;
+    text-align: center;
+}
+.sms h3{
+    margin-bottom: 30px;
+}
+.map{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.block{
+    height: 600px; 
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 2px 2px 10px #000 ;
+    
+    
+    
+    
+    
+}
+.list{
+    margin: 30px;
+    padding: 10px 0px 10px 0px;
+    font-size: 20px;
+}
+.list>li{
+    background: url("../img/checkmark.png") left/auto 70% no-repeat;
+    padding-left:  50px;
+}*/
+
+/*div{
+    font-size : 20px;
+}
+span{
+    color: rgb(255,180,5);
+}
+.text{
+    color: red ;
+}
+[custom_data='']{
+    color: blue;
+}
+span.text{
+    color : greenyellow;
+}
+#text_span{
+    color: yellow;
+}
+.block>p{
+    font-size: 10px;
+}
+.block p{
+    font-size: 30px;
+}*/
+/*p{
+    font-family: : Arial, "hevelvetica Neue", Helvetika, sans-serif;
+    font-size: 25px;
+    text-align:  justify;
+    text-decoration: underline;
+    text-shadow: 1px 1px 10px #000;
+    text-transform: none;
+    text-indent: none;
+    letter-spacing: 0.3px;
+    line-height: none;;
+    white-space: normal;
+    word-spacing: 
+}*/
